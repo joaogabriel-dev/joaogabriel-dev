@@ -1,6 +1,6 @@
 ### <Olá! Eu sou João Gabriel/> 
 
-- 🎮 Graduando em **Analise e Desenvolvimento de Sistemas**; Apaixonado por games & tecnologias imersivas.
+- 🎮 Graduando em **Analise e Desenvolvimento de Sistemas**; Apaixonado por front-end & tecnologias imersivas.
 
 <div align="center">
   <a href="https://github.com/joaogabriel-dev">
