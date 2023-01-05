@@ -1,4 +1,4 @@
-### <Olá! Eu sou João Gabriel/> 
+### 👋 Olá! Eu sou João Gabriel
 
 - 🎮 Graduando em **Analise e Desenvolvimento de Sistemas**; Apaixonado por front-end & tecnologias imersivas.
 
