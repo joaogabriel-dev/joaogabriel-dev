@@ -1,6 +1,6 @@
 ### 🦾 Hey! Eu sou João Gabriel
 
-- 🎮 **Apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo.**; Atuando com Desenvolvimento front-end & tecnologias imersivas.
+- 🎮 **Apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo**; Atuando com Desenvolvimento front-end & tecnologias imersivas.
 
 <div align="center">
   <a href="https://github.com/joaogabriel-dev">
